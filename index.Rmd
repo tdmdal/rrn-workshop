@@ -1,5 +1,5 @@
 ---
-title: "Rotman Research Node Intro"
+title: "Rotman Research Node (RRN) Intro"
 ---
 
 * [Workshop Slides](rrn_intro.pdf)
