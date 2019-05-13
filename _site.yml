@@ -1,0 +1,15 @@
+name: "TDMDAL Workshop"
+output_dir: "docs"
+include: ["rrn_intro.pdf"]
+exclude: ["*.pptx"]
+navbar:
+  title: "TDMDAL Workshop - RRN Intro"
+  right:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+
+  

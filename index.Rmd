@@ -1,0 +1,11 @@
+---
+title: "Rotman Research Node Intro"
+---
+
+* [Workshop Slides](rrn_intro.pdf)
+* Resources
+    * [RRN User Manual](https://tdmdal.github.io/computing-research/)
+    * [CAC Wiki](https://cac.queensu.ca/wiki/index.php/Main_Page)
+        * [How to run jobs using a scheduler](https://cac.queensu.ca/wiki/index.php/SLURM)
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
